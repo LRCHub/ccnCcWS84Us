@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "I just wanna be myself ~One of the BE:ST-02 LEO~",
+  "base_artist": "LEO (BE:FIRST)",
+  "createdAt": "2025-12-28T18:05:46.854138Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I just wanna be myself 〜One of the BE:ST-02 LEO〜",
+      "artist": "LEO (BE:FIRST)",
+      "has_synced": false,
+      "path": "select/pl_01_I_just_wanna_be_myself_〜One_of_the_BE_ST-02_LEO〜_LEO_(BE_FIRST).txt"
+    }
+  ]
+}
